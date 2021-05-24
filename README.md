@@ -1,4 +1,4 @@
-# LRLinPython
+# LRL
 
 Low Rim League basketball
 
